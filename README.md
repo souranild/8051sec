@@ -26,3 +26,19 @@ Main HEX file Used: [v1.hex](https://github.com/souranild/RFID8051/blob/main/Obj
 ![](https://github.com/souranild/RFID8051/blob/main/Images/Hardware.png)
 
 
+## Demo
+1. A list of RFIDs is saved in code, and the RFIDs are tested according to that.
+If the RFID is wrong, then a message saying “UNAUTHORIZED” is printed in the LCD.
+
+![](https://github.com/souranild/RFID8051/blob/main/Images/Demo1.png)
+
+2. If the RFID is correct, the user’s predefined name is printed and the motor runs.
+
+![](https://github.com/souranild/RFID8051/blob/main/Images/Demo2.png)
+
+
+## To Be Added
+
+[] Add an alarm system.
+[] Modify the commands, signaling exceeded the number of failed attempts.
+[] Replacing the DC Motor with Servo Motor for precise movement of latches and knobs.
