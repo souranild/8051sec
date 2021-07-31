@@ -39,7 +39,7 @@ If the RFID is wrong, then a message saying “UNAUTHORIZED” is printed in the
 
 ### Video:
 
-![](https://user-images.githubusercontent.com/42074408/127742384-1bbc4c7b-90af-491c-9b67-6231d138031c.mp4)
+https://user-images.githubusercontent.com/42074408/127742384-1bbc4c7b-90af-491c-9b67-6231d138031c.mp4
 
 
 
