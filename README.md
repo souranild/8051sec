@@ -37,6 +37,12 @@ If the RFID is wrong, then a message saying “UNAUTHORIZED” is printed in the
 ![](https://github.com/souranild/RFID8051/blob/main/Images/Demo2.png)
 
 
+### Video:
+
+![](https://user-images.githubusercontent.com/42074408/127742384-1bbc4c7b-90af-491c-9b67-6231d138031c.mp4)
+
+
+
 ## To Be Added
 
 - Add an alarm system.
