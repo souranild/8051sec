@@ -39,6 +39,6 @@ If the RFID is wrong, then a message saying “UNAUTHORIZED” is printed in the
 
 ## To Be Added
 
-[] Add an alarm system.
-[] Modify the commands, signaling exceeded the number of failed attempts.
-[] Replacing the DC Motor with Servo Motor for precise movement of latches and knobs.
+- [] Add an alarm system.
+- [] Modify the commands, signaling exceeded the number of failed attempts.
+- [] Replacing the DC Motor with Servo Motor for precise movement of latches and knobs.
