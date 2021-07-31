@@ -1,4 +1,4 @@
-# RFID8051
+# 8051-RFID-security
 A Door unlock system with 8051 Microcontroller and RC522 RFID Reader
 
 Proteus project folder included. 
